@@ -1,0 +1,8 @@
+ignore files
+.idea/
+*.iml
+outputs/
+package-lock.json
+node_modules/
+dist/
+```
